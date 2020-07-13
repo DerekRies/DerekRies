@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<div>
-
 <map name="ImageMap_307a34e86e26bd9a">
     <area href="https://en.wikipedia.org/wiki/Samuel_Johnson" shape="poly"
         coords="133,343,124,287,159,224,189,228,195,291,222,311,209,343,209,354,243,362,292,466,250,463"
@@ -47,6 +45,4 @@
         href="https://en.wikipedia.org/wiki/The_Club_(Literary_Club)" shape="rect" coords="12,10,702,500"
         alt="Use button to enlarge or use hyperlinks" title="Use button to enlarge or use hyperlinks">
 </map>
-
 <img alt="" src="//upload.wikimedia.org/wikipedia/commons/b/ba/JoshuaReynoldsParty.jpg" decoding="async" width="720" height="523" class="thumbimage" data-file-width="720" data-file-height="523" usemap="#ImageMap_307a34e86e26bd9a">
-</div>
